@@ -5,6 +5,7 @@ using namespace std;
 int main() {
     int t, n, less, more, ans;
 
+    cout << "teste";
     cin >> t;
     for(int i = 0; i < t; i++) {
         cin >> n;
